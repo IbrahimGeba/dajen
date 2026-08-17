@@ -105,7 +105,7 @@
 
 | الأمراض | المتطلبات الصحية |
 |:---:|:---:|
-| <img width="390" height="844" alt="soil cycle 4" src="https://github.com/user-attachments/assets/052e09a1-fcf6-4b12-a31a-8b43dec8b761" /> | <img width="390" height="844" alt="soil cycle 5" src="https://github.com/user-attachments/assets/ebb79921-8caf-4420-9f69-13ee3255090e" /> |
+| <img width="390" height="844" alt="soil cycle 6" src="https://github.com/user-attachments/assets/3ff2ea54-983a-4824-b3b2-f28799bf6d8f" /> | <img width="390" height="844" alt="soil cycle 7" src="https://github.com/user-attachments/assets/25484704-a63c-45ae-8714-bd83bf9ca553" /> |
 
 </div>
 
@@ -115,7 +115,7 @@
 
 | بيان الحساب | إجمالي الحسابات |
 |:---:|:---:|
-| ![Account Statement](account_statement.png) | ![Total Calculations](Total_calculations.png) |
+| <img width="390" height="844" alt="account statement" src="https://github.com/user-attachments/assets/8d65f361-06cb-4856-91d2-832ae4e3015b" /> | <img width="390" height="844" alt="Total calculations" src="https://github.com/user-attachments/assets/95f48316-a85a-4844-98d4-71fb7a486b1d" /> |
 
 </div>
 
@@ -125,7 +125,7 @@
 
 | السوق | قائمة التجار |
 |:---:|:---:|
-| ![Market](market.png) | ![Traders](treader.png) |
+| <img width="390" height="844" alt="market" src="https://github.com/user-attachments/assets/3e195cec-31d0-4453-8924-edac734c5f53" /> | <img width="390" height="844" alt="treader" src="https://github.com/user-attachments/assets/f73c2358-4ce9-411e-82e6-b052cee759ca" /> |
 
 </div>
 
@@ -135,7 +135,7 @@
 
 | الإشعارات | الرسائل |
 |:---:|:---:|
-| ![Notifications](notification.png) | ![Messages](messages.png) |
+| <img width="390" height="844" alt="notification" src="https://github.com/user-attachments/assets/236b9103-cd73-4873-98e6-3d4ec1100b40" /> | <img width="390" height="844" alt="messages" src="https://github.com/user-attachments/assets/fb2f848d-13d6-4efe-8df4-6b45d424e79c" /> |
 
 </div>
 
