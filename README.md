@@ -91,7 +91,7 @@
 
 | المرحلة 4 | المرحلة 5 | المرحلة 6 |
 |:---:|:---:|:---:|
-| ![Stage 4](soil_cycle_4.png) | ![Stage 5](soil_cycle_5.png) | ![Stage 6](soil_cycle_6.png) |
+| <img width="390" height="844" alt="soil cycle 4" src="https://github.com/user-attachments/assets/6e410d12-e49a-4d64-8e4a-1536ca985b11" /> | <img width="390" height="844" alt="soil cycle 5" src="https://github.com/user-attachments/assets/4a74c4a7-726d-493c-becd-ddee3c8c3b48" /> | <img width="390" height="892" alt="soil cycle 6" src="https://github.com/user-attachments/assets/71edb557-f571-48f4-a0cb-5d14604ce91d" /> |
 
 | المرحلة 7 | إنهاء الدورة |
 |:---:|:---:|
