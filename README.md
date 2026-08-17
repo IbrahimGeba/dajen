@@ -87,15 +87,15 @@
 
 | المرحلة 1 | المرحلة 2 | المرحلة 3 |
 |:---:|:---:|:---:|
-| <img width="390" height="844" alt="soil cycle 1" src="https://github.com/user-attachments/assets/7cca8c35-9552-4f99-ad9e-551747383453" />| <img width="390" height="844" alt="soil cycle 2" src="https://github.com/user-attachments/assets/5af4055a-e12e-4c64-b1e8-532c7f7d2af7" /> | <img width="390" height="1002" alt="soil cycle 3" src="https://github.com/user-attachments/assets/848f10a4-58f4-466f-95c8-3e40e9f8d178" />|
+| <img width="390" height="844" alt="soil cycle 1" src="https://github.com/user-attachments/assets/7cca8c35-9552-4f99-ad9e-551747383453" />| <img width="390" height="844" alt="soil cycle 2" src="https://github.com/user-attachments/assets/5af4055a-e12e-4c64-b1e8-532c7f7d2af7" /> | <img width="390" height="844" alt="soil cycle 3" src="https://github.com/user-attachments/assets/848f10a4-58f4-466f-95c8-3e40e9f8d178" />|
 
 | المرحلة 4 | المرحلة 5 | المرحلة 6 |
 |:---:|:---:|:---:|
-| <img width="390" height="844" alt="soil cycle 4" src="https://github.com/user-attachments/assets/6e410d12-e49a-4d64-8e4a-1536ca985b11" /> | <img width="390" height="844" alt="soil cycle 5" src="https://github.com/user-attachments/assets/4a74c4a7-726d-493c-becd-ddee3c8c3b48" /> | <img width="390" height="892" alt="soil cycle 6" src="https://github.com/user-attachments/assets/71edb557-f571-48f4-a0cb-5d14604ce91d" /> |
+| <img width="390" height="844" alt="soil cycle 4" src="https://github.com/user-attachments/assets/6e410d12-e49a-4d64-8e4a-1536ca985b11" /> | <img width="390" height="844" alt="soil cycle 5" src="https://github.com/user-attachments/assets/4a74c4a7-726d-493c-becd-ddee3c8c3b48" /> | <img width="390" height="844" alt="soil cycle 6" src="https://github.com/user-attachments/assets/71edb557-f571-48f4-a0cb-5d14604ce91d" /> |
 
 | المرحلة 7 | إنهاء الدورة |
 |:---:|:---:|
-| ![Stage 7](soil_cycle_7.png) | ![End Cycle](Total_calculations__1_.png) |
+| <img width="390" height="844" alt="soil cycle 7" src="https://github.com/user-attachments/assets/c7d25034-b3c4-485b-b883-0a508c1703cb" /> | <img width="390" height="844" alt="Total calculations (1)" src="https://github.com/user-attachments/assets/0647931d-4366-4233-9dd5-8a84dc7ebebf" /> |
 
 </div>
 
