@@ -76,8 +76,7 @@
 
 | بدء دورة جديدة | متابعة الدورة | حساب الأداء |
 |:---:|:---:|:---:|
-| <img width="390" height="844" alt="soil cycle 1" src="https://github.com/user-attachments/assets/7cca8c35-9552-4f99-ad9e-551747383453" />
- | <img width="390" height="1086" alt="follow up the cycle" src="https://github.com/user-attachments/assets/9c573491-79c8-4579-be3e-2fe89baf93e2" /> | <img width="390" height="1344" alt="Total calculations (1)" src="https://github.com/user-attachments/assets/0b4c0a0b-846a-4c8c-a426-2424254fa298" /> |
+| <img width="390" height="844" alt="soil cycle 1" src="https://github.com/user-attachments/assets/7cca8c35-9552-4f99-ad9e-551747383453" /> | <img width="390" height="1086" alt="follow up the cycle" src="https://github.com/user-attachments/assets/9c573491-79c8-4579-be3e-2fe89baf93e2" /> | <img width="390" height="1344" alt="Total calculations (1)" src="https://github.com/user-attachments/assets/0b4c0a0b-846a-4c8c-a426-2424254fa298" /> |
 
 </div>
 
