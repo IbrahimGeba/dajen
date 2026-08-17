@@ -76,7 +76,8 @@
 
 | بدء دورة جديدة | متابعة الدورة | حساب الأداء |
 |:---:|:---:|:---:|
-| ![Start Cycle](soil_cycle_1.png) | ![Follow Cycle](follow_up_the_cycle.png) | ![Calculations](Total_calculations.png) |
+| ![Start Cycle](<img width="390" height="844" alt="soil cycle 1" src="https://github.com/user-attachments/assets/7cca8c35-9552-4f99-ad9e-551747383453" />
+) | ![Follow Cycle](<img width="390" height="1086" alt="follow up the cycle" src="https://github.com/user-attachments/assets/9c573491-79c8-4579-be3e-2fe89baf93e2" />) | ![Calculations](Total_calculations.png) |
 
 </div>
 
@@ -86,8 +87,7 @@
 
 | المرحلة 1 | المرحلة 2 | المرحلة 3 |
 |:---:|:---:|:---:|
-| ![Stage 1](soil_cy<img width="390" height="844" alt="soil cycle 1" src="https://github.com/user-attachments/assets/7cca8c35-9552-4f99-ad9e-551747383453" />
-cle_1.png) | ![Stage 2](soil_cycle_2.png) | ![Stage 3](soil_cycle_3.png) |
+| ![Stage 1](soil_cycle_1.png) | ![Stage 2](soil_cycle_2.png) | ![Stage 3](soil_cycle_3.png) |
 
 | المرحلة 4 | المرحلة 5 | المرحلة 6 |
 |:---:|:---:|:---:|
