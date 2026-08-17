@@ -87,7 +87,7 @@
 
 | المرحلة 1 | المرحلة 2 | المرحلة 3 |
 |:---:|:---:|:---:|
-| ![Stage 1](soil_cycle_1.png) | ![Stage 2](soil_cycle_2.png) | ![Stage 3](soil_cycle_3.png) |
+| <img width="390" height="844" alt="soil cycle 1" src="https://github.com/user-attachments/assets/7cca8c35-9552-4f99-ad9e-551747383453" />| ![Stage 2](soil_cycle_2.png) | ![Stage 3](soil_cycle_3.png) |
 
 | المرحلة 4 | المرحلة 5 | المرحلة 6 |
 |:---:|:---:|:---:|
